@@ -1,4 +1,0 @@
-#Wed Oct 27 14:42:47 EET 2021
-base.0=/home/dadash/Sanlab/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
